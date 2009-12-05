@@ -7,7 +7,7 @@ set :repository, 'git@github.com:watchingant/capistrano-demo.git'
 default_run_options[:pty] = true
 
 set :scm, :git                                 
-set :user, "watchingant"
+set :user, "awatson"
 set :branch, "master"
 set :deploy_to, "/var/www/rails/#{user}/#{application}"             
 set :deploy_via, :remote_cache   
