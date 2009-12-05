@@ -1,5 +1,5 @@
 --- 
-cwd: /var/www/rails/watchingant/shopping_cart/current
+cwd: /var/www/rails/awatson/shopping_cart/current
 log_file: log/mongrel.log
 port: "9015"
 environment: production
